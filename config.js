@@ -17,7 +17,7 @@ const CONFIG = {
   collectionKey: "KWICZZVU",     // dh_unibe → lecture-introduction
 
   // Citation style (any CSL style id, e.g. "apa", "chicago-author-date", "modern-language-association")
-  style: "apa",
+  style: "Schweizerische-Zeitschrift-fuer-Geschichte",
 
   // Group the list: "none", "year", "type" or "tag"
   groupBy: "year",
