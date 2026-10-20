@@ -17,7 +17,7 @@ const CONFIG = {
   collectionKey: "BT3NCKZK",     // dh_unibe → lecture-introduction
 
   // Citation style (any CSL style id, e.g. "apa", "chicago-author-date", "modern-language-association")
-  style: "info-clio-author-date",
+  style: "info-clio",
 
   // Group the list: "none", "year", "type" or "tag"
   groupBy: "year",
